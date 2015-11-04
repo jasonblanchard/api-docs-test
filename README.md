@@ -35,7 +35,7 @@ This will use the API Blueprint spec below to generate responses.
 FORMAT: 1A
 HOST: http://polls.apiblueprint.org/
 
-# ApprenNet v2.0
+# Test App
 
 Polls is a simple API allowing consumers to view polls and vote in them.
 
