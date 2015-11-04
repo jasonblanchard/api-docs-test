@@ -2,7 +2,7 @@ var request = require('request');
 
 request({
   method: 'POST',
-  url: 'http://private-5e159b-apprennetv20.apiary-mock.com/questions',
+  url: 'http://localhost:3000/questions',
   headers: {
     'Content-Type': 'application/json'
   },

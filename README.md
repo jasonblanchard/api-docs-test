@@ -39,7 +39,7 @@ HOST: http://polls.apiblueprint.org/
 
 Polls is a simple API allowing consumers to view polls and vote in them.
 
-## Questions Collection [/questionz]
+## Questions Collection [/questions]
 
 ### List All Questions [GET]
 
